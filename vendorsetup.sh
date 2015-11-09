@@ -17,6 +17,7 @@ add_lunch_combo nameless_find7-userdebug
 ## R
 #add_lunch_combo nameless_r7-userdebug
 ## S
+add_lunch_combo nameless_sprout4-userdebug
 #add_lunch_combo nameless_shieldtablet-userdebug
 ## T
 #add_lunch_combo nameless_t0lte-userdebug
